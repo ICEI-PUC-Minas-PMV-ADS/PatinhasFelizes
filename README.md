@@ -7,8 +7,7 @@
 
 `1º SEMESTRE`
 
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Esse projeto tem como objetivo criar uma plataforma de cadastros de PET para adoção. O cadastro do animal poderá ser feito por uma pessoa física ou uma ONG.
 
 ## Integrantes
 
