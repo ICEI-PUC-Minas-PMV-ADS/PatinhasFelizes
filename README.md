@@ -1,27 +1,27 @@
-# TÍTULO DO PROJETO
+# <img align="middle" height="506" width="470" src="https://user-images.githubusercontent.com/91505442/164258237-66e208b1-fe78-4581-bc0f-6b8e176776d3.png">
 
-`CURSO`
 
-`DISCIPLINA`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
+  
+`Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 2 -`
 
-`SEMESTRE`
+`1º SEMESTRE`
+
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Adriano Silva
+* Gabriel Morais
+* Jade Persiano
+* Laerte Ribeiro
+* Leticia Isabela
+* Luciana Almeida
 
 ## Orientador
 
-* Nome completo do professor 1
-
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+* Will Ricardo dos Santos Machado
 
 # Documentação
 
