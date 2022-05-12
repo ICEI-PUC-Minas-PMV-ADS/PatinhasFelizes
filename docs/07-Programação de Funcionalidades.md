@@ -13,3 +13,33 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 > - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+
+##TELA PRINCIPAL/HOME PAGE
+Responsável: Gabriel Morais
+Descrição do que foi feito:
+Link do vídeo:
+Print:
+
+##TELA CADASTRO ONG
+Responsável: Letícia
+Descrição do que foi feito:
+Link do vídeo:
+Print:
+
+##TELA CADASTRO USUÁRIO
+Responsável: Luciana
+Descrição do que foi feito:
+Link do vídeo:
+Print:
+
+##TELA LOGIN E TEMPLATE
+Responsável: Jade Guimarães
+Descrição do que foi feito:
+Link do vídeo:
+Print:
+
+##TELA 
+Responsável:
+Descrição do que foi feito:
+Link do vídeo:
+Print:
