@@ -38,8 +38,20 @@ Print:
 ##TELA LOGIN E TEMPLATE
 > -Responsável: Jade Guimarães
 Descrição do que foi feito: Iniciei meus estudos focada em começar o desenvolvimento do template e estudei a parte de HTML e CSS. Com esses conhecimentos, consegui desenvolver um menu responsivo utilizando apenas HTML e CSS, cores de uma paleta pré-definida com minha equipe, fonte 'inter' também definida com a equipe. O menu ficou semelhante ao feito no protótipo, entretando houveram algumas diferenças como o posicionamento das opção do menu, a logo escolhida por nós e a opção de login, que foi substituido pelo botão entrar. Após a finalização do menu, eu e Gabriel iniciamos o desenvolvimento do rodapé do site, que apesar de dificuldades foi desenvolvido e finalizado. Além disso, fiquei responsável pela tela de login de usuário. Nessa tela utilizei por enquanto também apenas HTML e CSS, futuramente com a intenção de utilizar javascrip e JSON. A tela pronta ficou bem semelhante à proposta do protótipo, diferenciando apenas pelo botão de "cadastre-se" que foi retirado. Nessa parte tive algumas dificuldades em relação à responsividade, que descrevi no vídeo abaixo. Foa isso, foi uma fase de grande aprendizado, considerando que estou iniciando do zero.
-Link do vídeo:
+Link do vídeo: https://www.youtube.com/watch?v=tLHFKMOKaVA
 Print: ![Print login](https://user-images.githubusercontent.com/95424711/168445818-44d65f2d-fcd9-4285-b815-eaf841fa0cee.png)
+Requisitos atendidos
+●	RNF-01 
+●	RNF-02 
+● RNF-03
+
+Artefatos da funcionalidade
+●	index.html
+●	login.html
+●	style.css
+●	render.js
+
+
 
 
 
