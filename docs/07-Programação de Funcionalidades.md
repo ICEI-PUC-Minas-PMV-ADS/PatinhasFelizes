@@ -14,7 +14,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
 
-##TELA PRINCIPAL/HOME PAGE
+##TELA PRINCIPAL E TEMPLATE
 Responsável: Gabriel Morais
 Descrição do que foi feito:
 Link do vídeo:
