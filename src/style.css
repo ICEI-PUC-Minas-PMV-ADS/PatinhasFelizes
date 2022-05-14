@@ -1,0 +1,187 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+body {
+  background-color: rgb(245, 245, 245);
+}
+header {
+  top: 0;
+  position: fixed;
+  width: 100%;
+  background-color: #ffd446;
+  box-shadow: 0 3px 10px #bb950bb2;
+  justify-content: center;
+  z-index: 1;
+}
+
+.nav-tudo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-logo {
+  display: flex;
+  align-items: center;
+}
+
+.nav-list {
+  margin: 0;
+  padding: 20px;
+}
+
+.nav-item {
+  display: inline-block;
+}
+
+/*shothand de fontes: style, weight, size e family NÃO FUNCIONOU ABAIXO*/
+.nav-link {
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 400;
+  color: #ffffff;
+  padding: 30px;
+}
+
+.login-button button {
+  background-color: #7092bf;
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.login-button button a {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.nav-item a:hover {
+  color: #000;
+  transition: 0.8s;
+}
+
+/* body */
+
+.container-main {
+  position: absolute;
+  margin: 100px 50px;
+}
+
+/* footer */
+
+footer {
+  position: absolute;
+  font-size: 12px;
+  font-weight: 500;
+  color: #577499;
+  background-color: #ffd446;
+  text-align: center;
+  margin-top: 600px;
+  width: 100%;
+}
+
+.footer-content {
+  padding-top: 10px;
+  margin: 0 40px 9px 40px;
+}
+
+.footer-content a {
+  text-decoration: none;
+  list-style: none;
+}
+
+.container-icones {
+  box-sizing: border-box;
+  height: auto;
+  width: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 40px;
+  grid-gap: 80px;
+}
+
+.footer-icons {
+  width: 40px;
+  height: 40px;
+}
+
+/* main */
+
+.container-login {
+  color: white
+  ;
+}
+ 
+.container-login {
+    color: white
+    ;
+}
+
+main {
+    background-image: linear-gradient( to bottom, #ffc400, #ffd446);
+    box-shadow: 3px 3px 10px #bd9d37;
+    border-radius: 10px;
+    color: #6b5959;
+    position: absolute;
+    padding: 40px 10px 30px 10px;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.login-link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.login-link:hover {
+    color: #405672;
+}
+
+.input-box {
+    margin: 40px;
+}
+
+input {
+    padding: 8px;
+    outline: none;
+}
+
+.input-email {
+    margin: 10px;
+}
+
+.entrar-button {
+    background-color: #7092bf;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px;
+    color: #ffffff;
+    width: 46%;
+    font-weight: 500;
+    border: none;
+}
+
+.entrar-button:hover{
+    background-color: #405672;
+
+}
+.login-link-p {
+    padding: 20px;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
