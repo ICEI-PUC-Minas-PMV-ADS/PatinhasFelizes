@@ -23,9 +23,9 @@ Print:
 
 ##TELA CADASTRO ONG
 Responsável: Letícia
-Descrição do que foi feito:
-Link do vídeo:
-Print:
+Descrição do que foi feito:Fiz a página baseadas nos conteúdos estudados na disciplina de Desenvolvimento Web Front-end, utilizando no momento HTML e CSS. O conteúdo do template ficou um pouco diferente do padrão estabelecido pela equipe, pois a tela já estava pronta antes do padrão estar pronto e não tive tempo de alterar, mas nos próximos entregavéis irei trabalhar em cima do template padrão, apesar do resultado final estar bem próximo ao padrão.
+Link do vídeo: https://loom.com/share/d2927b20df2a4da088e009a96646fd59
+Print: ![TelaCadastroONG](https://user-images.githubusercontent.com/80654018/168452185-773f3e28-d303-499d-994c-6cff90dd501c.jpg)
 
 
 ##TELA CADASTRO USUÁRIO
@@ -33,6 +33,7 @@ Responsável: Luciana
 Descrição do que foi feito:
 Link do vídeo:
 Print:
+
 
 
 ##TELA LOGIN E TEMPLATE
