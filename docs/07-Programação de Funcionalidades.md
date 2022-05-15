@@ -30,9 +30,9 @@ Print: ![TelaCadastroONG](https://user-images.githubusercontent.com/80654018/168
 
 ##TELA CADASTRO ADOTANTE
 Responsável: Luciana
-Descrição do que foi feito:
+Descrição do que foi feito: Fiz a pagina de cadastro de adotante baseado no conteudo estudado do microfundamento de desenvolvimento web front-end, estudei toda a parte de html e ficou pendente estudar Layouts Responsivos e Frameworks front-end - Bootstrap da parte de CSS. A principio, enquanto a tela do templante estava sendo finalizada a medida que estava estudando fui montando a pagina. Com o templente finalizado inserir no codigo a parte do formulario do adotante. 
 Link do vídeo:https://youtu.be/eTrr5ASOKLs
-Print: Fiz a pagina de cadastro de adotante baseado no conteudo estudado do microfundamento de desenvolvimento web front-end, estudei toda a parte de html e ficou pendente estudar Layouts Responsivos e Frameworks front-end - Bootstrap da parte de CSS. A principio, enquanto a tela do templante estava sendo finalizada a medida que estava estudando fui montando a pagina. Com o templente finalizado inserir no codigo a parte do formulario do adotante. 
+Print: 
 
 ![image](https://user-images.githubusercontent.com/99698285/168471646-d413e8e1-d6a0-47d8-8bdd-6b913b40f653.png)
 
