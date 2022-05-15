@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&display=swap');
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#fundotela{
+   background-color:  #B9D9F2;
+}
+
+#menu{
+    background-color: #ffd446;
+}
+
+#menu ul{
+    list-style-type: none;
+    padding: 0;
+    background-color: #ffd446;
+    font-family: 'Inter', sans-serif;
+    word-spacing: 80px;
+}
+
+#menu ul li{
+    display: inline;
+    
+}
+
+#menu ul li a{
+    display: inline-block;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    background-color: #ffd446;
+}
+
+#menu ul li a:hover{
+    background-color: #B9D9F2;
+}
+
+#menu ul li:last-child a{
+    float: right;
+    background-color: #7092BF;
+}
+
+#imagem{
+    background-color: #ffd446;
+}
+
+#cadastro{
+    color: white;
+    background-color: #ffd446
+}
+
+#titulo{
+    display: block;
+    width: 10%;
+    margin: 0 auto;
+}
+
+#formulario{
+    display: block;
+    width: 20%;
+    margin: 0 auto;
+    background-color: white;
+}
+
+#botao-cadastro{
+    display: block;
+    width: 28%;
+    margin: 0 auto;
+    text-decoration: solid;
+    background-color: #ffd446;
+}
+
+#botao-cadastro a{
+    text-decoration: none;
+    color: white;
+    background-color: #ffd446;
+}
+
+#rodape{   
+    position: absolute;
+    bottom: 0; 
+    display: block;
+    width: 100%;
+    padding: 200 auto;
+    background-color: #ffd446;
+    font-family: 'Inter', sans-serif;
+}
+
+#texto-rodape{
+    list-style-type: none;
+    width: 35%;
+    background-color: #ffd446;
+}
