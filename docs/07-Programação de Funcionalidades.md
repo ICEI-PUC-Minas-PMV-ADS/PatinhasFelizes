@@ -28,11 +28,13 @@ Link do vídeo: https://loom.com/share/d2927b20df2a4da088e009a96646fd59
 Print: ![TelaCadastroONG](https://user-images.githubusercontent.com/80654018/168452185-773f3e28-d303-499d-994c-6cff90dd501c.jpg)
 
 
-##TELA CADASTRO USUÁRIO
+##TELA CADASTRO ADOTANTE
 Responsável: Luciana
 Descrição do que foi feito:
-Link do vídeo:
-Print:
+Link do vídeo:https://youtu.be/eTrr5ASOKLs
+Print: Fiz a pagina de cadastro de adotante baseado no conteudo estudado do microfundamento de desenvolvimento web front-end, estudei toda a parte de html e ficou pendente estudar Layouts Responsivos e Frameworks front-end - Bootstrap da parte de CSS. A principio, enquanto a tela do templante estava sendo finalizada a medida que estava estudando fui montando a pagina. Com o templente finalizado inserir no codigo a parte do formulario do adotante. 
+
+![image](https://user-images.githubusercontent.com/99698285/168471646-d413e8e1-d6a0-47d8-8bdd-6b913b40f653.png)
 
 
 
