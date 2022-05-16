@@ -6,10 +6,6 @@
   font-family: "Inter", sans-serif;
 }
 
-body {
-  background-color: #f5f5f5;
-}
-
 header {
   top: 0;
   position: fixed;
@@ -34,19 +30,22 @@ header {
 .nav-list {
   margin: 0;
   padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  height: auto;
+  width: auto;
 }
 
 .nav-item {
   display: inline-block;
+  padding: 10px;
 }
 
-/*shothand de fontes: style, weight, size e family NÃO FUNCIONOU ABAIXO*/
-.nav-link {
+.nav-item a {
+  transition: 0.5s;
   text-decoration: none;
-  font-size: 15px;
-  font-weight: 400;
   color: #ffffff;
-  padding: 30px;
 }
 
 .login-button button {
@@ -65,16 +64,120 @@ header {
 
 .nav-item a:hover {
   color: #000;
-  transition: 0.8s;
 }
 
 /* body */
 
-.container-main {
-  position: absolute;
-  margin: 100px 50px;
+body {
+  background-color: #f5f5f5;
 }
 
+.container-main {
+  margin-top: 100px;
+  justify-content: center;
+  box-sizing: border-box;
+  height: auto;
+  width: auto;
+  display: flex;
+  flex-wrap: wrap;
+  grid-gap: 25px;
+}
+
+.container-main p {
+  text-align: center;
+  margin: 0 150px;
+}
+
+.container-main .container-content {
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #7092bf3d;
+}
+
+.container-main .container-content .caes {
+  margin: 60px;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  grid-gap: 50px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: auto;
+  width: auto;
+  grid-gap: 50px;
+}
+
+.card {
+  border-radius: 7px;
+  height: 380px;
+  width: 350px;
+  color: rgb(0, 0, 0);
+  position: relative;
+  box-shadow: 0 3px 10px #2626265c;
+}
+
+.textcard {
+  position: absolute;
+  bottom: 0;
+  padding: 0 0 15px 15px;
+}
+
+@media (max-width: 810px) {
+  .container-main {
+    margin-top: 150px !important;
+  }
+}
+
+@media (max-width: 602px) {
+  .container-main {
+    margin-top: 200px !important;
+  }
+}
+
+@media (max-width: 530px) {
+  .container-main {
+    margin-top: 230px !important;
+  }
+}
+
+@media (max-width: 490px) {
+  .container-main {
+    margin-top: 280px !important;
+  }
+}
+
+@media (max-width: 460px) {
+  .container-main {
+    margin-top: 300px !important;
+  }
+}
+
+.info-button {
+  width: 300px;
+  background-color: #ffffff91;
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: #577499;
+  border: 2px solid #577499;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.adotar-button {
+  width: 300px;
+  background-color: #ffd446;
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: #577499;
+  border: none;
+  margin: 10px;
+  cursor: pointer;
+}
 /* footer */
 
 footer {
@@ -84,7 +187,7 @@ footer {
   color: #577499;
   background-color: #ffd446;
   text-align: center;
-  margin-top: 70px;
+  margin-top: 200px;
   width: 100%;
 }
 
@@ -114,70 +217,54 @@ footer {
   height: 40px;
 }
 
-/* main */
+/* form */
 
-.cadastro-adotante {
-
-  color: white;
-
-}
-
-
-#caixaFormulario {
-
-  background-color: #ffd446;
-  border-radius: 15px;
-  border: 0, 5px solid black;
-  margin-right: 90mm;
-  margin-left: 80mm;
-  margin-block-start: 30mm;
-
-}
-
-.cadastro-adotante h1 {
-
-  color: #7092bF;
+.container-login {
+  border-radius: 10px;
+  justify-content: center;
   text-align: center;
-  padding: 10mm;
-
+  margin-top: 19px;
+  padding: 50px 0 15px 0;
+  width: 500px;
+  background-color: #ffd446;
+  color: #ffffff;
+  box-shadow: 0 3px 10px #bb950bb2;
 }
 
-.cadastro-adotante form {
-
-  line-height: 10mm;
-  margin-left: 55mm;
-  margin-right: 40mm;
+.login-link {
+  text-decoration: none;
+  color: #ffffff;
+  transition: 0.8s;
 }
 
-.formulario{
-
-  font:1em sans-serif;
-  width: 300px;
-  box-sizing: border-box;
-  vertical-align: top;
-  height: 5em;
-  box-shadow: #7092be;
-
+.login-link:hover {
+  color: #405672;
 }
 
-.formulario-input{
-
-  border-radius: 5px; 
-  width: 40mm;
-  height: 5mm;
-
+input {
+  padding: 8px;
+  outline: none;
+  border-radius: 3px;
+  margin: 8px;
+  border: 1px;
 }
 
-#botaoCadastroAdotante {
-
-  margin-block-start: 15mm;
-  color: white;
-  background-color: #7092bF;
-  width: 20mm;
-  height: 10mm;
-  margin-left: 30mm;
-  margin-right: 20mm;
-
-
+.entrar-button {
+  background-color: #7092bf;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 20px;
+  color: #ffffff;
+  width: 46%;
+  font-weight: 500;
+  border: none;
+  transition: 0.8s;
 }
 
+.entrar-button:hover {
+  background-color: #405672;
+}
+.login-link-p {
+  padding: 20px;
+  font-weight: 500;
+}
