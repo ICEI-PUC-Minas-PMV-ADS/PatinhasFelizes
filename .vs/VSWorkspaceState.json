@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\pages"
   ],
-  "SelectedNode": "\\C:\\Users\\jadep\\Documents\\Projeto",
+  "SelectedNode": "\\src\\pages\\login.html",
   "PreviewInSolutionExplorer": false
 }
