@@ -4,10 +4,10 @@ function logartest () {
     var senha = document.getElementById("senha").value;
     var validar = 0
 
-    for (i=0; i < usuarios.dados.length; i++) {
-        if (login == usuarios.dados[i].email && senha == usuarios.dados[i].senha){
+    for (i=0; i < usuarios.length; i++) {
+        if (login == usuarios[i].email && senha == usuarios[i].senha){
             validar = 1
-            alert("Sucesso");
+            alert("Login efetuado com sucesso!");
             location.href = ""
             break
         }
@@ -18,8 +18,7 @@ function logartest () {
     }
 }
 
-var usuarios = {
-    dados: [
+var usuarios = [
     {
       "email": "jadepersiano@hotmail.com",
       "senha": "12345678"
@@ -41,5 +40,5 @@ var usuarios = {
         "senha": "focinhoss00"
     }
 ]
-}
+
   
