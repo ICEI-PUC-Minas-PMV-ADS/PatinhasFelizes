@@ -1,0 +1,25 @@
+ var usuarios = {
+    dados: [
+    {
+      "email": "jadepersiano@hotmail.com",
+      "senha": "12345678"
+    },
+    {
+        "email": "maria123@gmail.com",
+        "senha": "xuxu4321"
+    },
+    {
+        "email": "amocachorro@hotmail.com",
+        "senha": "pets122"
+    },
+    {
+        "email": "pcunha@outlook.com",
+        "senha": "paulocunha1"
+    },
+    {
+        "email": "ongfocinhodeluz@hotmail.com",
+        "senha": "focinhoss00"
+    }
+]
+}
+  
