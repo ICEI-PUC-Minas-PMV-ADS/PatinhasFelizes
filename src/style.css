@@ -283,7 +283,7 @@ input {
   background-color: #ffd446;
   border-radius: 15px;
   border: 0, 5px solid black;
-  margin-right: 90mm;
+  margin-right: 80mm;
   margin-left: 80mm;
   margin-block-start: 30mm;
 
@@ -300,14 +300,25 @@ input {
 
 #caixa{
 
-  padding-left: 45mm;
+  padding-right: 45mm;
+  border-radius: 7px; 
+  width: 60mm;
+  height: 8mm;
+
+}
+
+#data{
+
+  border-radius: 7px; 
+  width: 60mm;
+  height: 8mm;
 
 }
 
 .cadastro-adotante form {
 
   line-height: 7mm;
-  margin-left: 50mm;
+  margin-left: 45mm;
   margin-right: 40mm;
   
 }
@@ -323,25 +334,17 @@ input {
 
 }
 
-.formulario-input{
-
-  border-radius: 5px; 
-  width: 40mm;
-  height: 5mm;
-
-}
 
 #botaoCadastroAdotante {
 
+  border-radius: 5px; 
   margin-block-start: 10mm;
   color: white;
   background-color: #7092bF;
-  width: 20mm;
-  height: 10mm;
-  margin-left: 30mm;
+  width: 22mm;
+  height: 13mm;
+  margin-left: 13mm;
   margin-right: 20mm;
   margin-block-end: 10mm;
 
 }
-
-
