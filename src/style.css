@@ -268,3 +268,80 @@ input {
   padding: 20px;
   font-weight: 500;
 }
+
+/* main cadastro adotante */
+
+.cadastro-adotante {
+
+  color: white;
+
+}
+
+
+#caixaFormulario {
+
+  background-color: #ffd446;
+  border-radius: 15px;
+  border: 0, 5px solid black;
+  margin-right: 90mm;
+  margin-left: 80mm;
+  margin-block-start: 30mm;
+
+}
+
+.cadastro-adotante h1 {
+
+  color: #7092bF;
+  text-align: center;
+  padding: 10mm;
+
+}
+
+
+#caixa{
+
+  padding-left: 45mm;
+
+}
+
+.cadastro-adotante form {
+
+  line-height: 7mm;
+  margin-left: 50mm;
+  margin-right: 40mm;
+  
+}
+
+.formulario{
+
+  font:1em sans-serif;
+  width: 300px;
+  box-sizing: border-box;
+  vertical-align: top;
+  height: 5em;
+  box-shadow: #7092be;
+
+}
+
+.formulario-input{
+
+  border-radius: 5px; 
+  width: 40mm;
+  height: 5mm;
+
+}
+
+#botaoCadastroAdotante {
+
+  margin-block-start: 10mm;
+  color: white;
+  background-color: #7092bF;
+  width: 20mm;
+  height: 10mm;
+  margin-left: 30mm;
+  margin-right: 20mm;
+  margin-block-end: 10mm;
+
+}
+
+
