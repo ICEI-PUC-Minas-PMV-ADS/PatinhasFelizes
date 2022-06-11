@@ -69,3 +69,43 @@ Critérios de êxito –
 •	Caso insira dados incorretos, retornar mensagem de falha.
 
 
+Caso de Teste 3 - Cadastro Padrão ONG
+
+Requisitos Associados -
+RF-02 - Na página de cadastro, deve haver uma opção de Login ou Cadastro, separado entre acesso de Usuário ou ONG.
+
+Objetivo do Teste -
+Verificar se o cadastro de Ong está acontecendo normalmente
+
+Passos -
+1) Acessar o Navegador
+2) Informar o endereço do Site
+3) Visualizar a página principal
+4) Clicar em Cadastro no menu
+5) Escolher a opção Ong e clicar
+6) Preencher todos os campos
+7) Clicar no botão Cadastre-se
+
+Critérios de Êxito -
+Após o procedimento ser realizado, a tela deverá ser alterada, apresentando uma tela com todos os dados preenchidos pelo usuário.
+
+Caso de Teste 4 – Visualização dos dados cadastrados
+
+Requisitos Associados -
+RF-07 - O site deve ter uma página para Usuários ou ONGs consultarem seu perfil.
+
+Objetivo do Teste -
+Verificar se os dados estão sendo exibidos corretamente na página de dados cadastrados.
+
+Passos -
+1) Acessar o Navegador
+2) Informar o endereço do Site
+3) Visualizar a página principal
+4) Clicar em Cadastro no menu
+5) Escolher a opção Ong e clicar
+6) Preencher todos os campos
+7) Clicar no botão Cadastre-se
+
+Critérios de Êxito -
+Após o procedimento ser realizado, a tela deverá ser alterada, apresentando uma tela com todos os dados preenchidos pelo usuário, sendo possível fazer alterações nos dados cadastrados.
+
