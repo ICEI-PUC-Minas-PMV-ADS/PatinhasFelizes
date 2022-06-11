@@ -19,9 +19,53 @@ Comente sobre as ferramentas de testes utilizadas.
 > - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 
-##Os requisitos para realização dos testes de software são:
+#Os requisitos para realização dos testes de software são:
 •	Site publicado na internet;
 •	Navegador da internet – Chrome, Firefox ou Edge;
 •	Conectividade de internet para acesso de plataformas (APIS).
 
 Os testes funcionais a serem realizados no site são descritos a seguir:
+
+Caso de teste – Visualizar a página de login.
+
+Requisitos associados - 
+RNF-01	O Projeto deve estar disponível em um ambiente acessível publicamente na Internet (Github). 
+RNF-02	O site deverá ser responsivo, permitindo o acesso em diversos tamanhos de tela.
+RNF-03	O site deve ser desenvolvido com as tecnologias HTML, CSS e Javascript. 
+RNF-04	O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)
+RF-005	O site deve possuir uma página de login, na qual o usuário possa inserir seu login e senha após cadastrar-se.
+
+Objetivo do teste - Verificar se é possível visualizar todas as funções de uma página de login, como inserção de usuário e senha, botão de entrada e esquecimento de senha.
+Passos – 
+1)	Acessar o navegador;
+2)	Inserir o endereço do site;
+3)	Visualizar a página de login.
+
+Critérios de êxito – 
+•	Deve haver um formulário para inserção de e-mail e senha;
+•	Deve haver um botão para que usuário possa logar.
+
+
+Caso de teste 2 – Acessar site com e-mail e senha válidos.
+
+Requisitos associados - 
+RNF-01	O Projeto deve estar disponível em um ambiente acessível publicamente na Internet (Github). 
+RNF-02	O site deverá ser responsivo, permitindo o acesso em diversos tamanhos de tela.
+RNF-03	O site deve ser desenvolvido com as tecnologias HTML, CSS e Javascript. 
+RNF-04	O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)
+RF-005	O site deve possuir uma página de login, na qual o usuário possa inserir seu login e senha após cadastrar-se.
+
+Objetivo do teste - Verificar se é acessar o site com usuário e senha e ao clicar no botão de entrar, o usuário logar ou não no site.
+Passos – 
+1)	Acessar o navegador;
+2)	Inserir o endereço do site;
+3)	Visualizar a página de login;
+4)	Inserir e-mail;
+5)	Inserir senha;
+6)	Clicar no botão “Entrar”;
+
+Critérios de êxito – 
+•	Caso insira dados correto, retornar mensagem de sucesso;
+•	Caso insira dados incorretos, retornar mensagem de falha.
+
+
