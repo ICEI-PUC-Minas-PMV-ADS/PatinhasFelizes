@@ -61,11 +61,12 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RF-002|Na página de cadastro, deve haver uma opção de Login ou Cadastro, separado entre acesso de Usuário ou ONG.  | ALTA | 
 |RF-003|O site deve possuir uma página de busca, onde o Usuário poderá visualizar a lista de animais para doação. | ALTA | 
 |RF-004|Na mesma página de busca do RF-03, deve haver um filtro para pesquisas avançadas (cidade, tipo de animal, idade, ONG, etc).| ALTA | 
-|RF-005|À escolha do usuário, o site deve possuir uma opção para adoção definitiva ou temporária. | MÉDIA |
-|RF-006|O site deve ter uma página para Apoiadores, onde o Usuário poderá realizar doações para ONGs ou para o site. | MÉDIA |
-|RF-007|O site deve ter uma página para Usuários ou ONGs consultarem seu perfil. | BAIXA |
-|RF-008|O site deve ter uma página para contato de Usuários ou ONGs, com a equipe do site. | BAIXA |
-|RF-009|Deve ter uma página com a história do site. | BAIXA |
+|RF-005|O site deve possuir uma página de lgin, na qual o usuário possa inserir seu login e senha após cadastrar-se.| ALTA | 
+|RF-006|À escolha do usuário, o site deve possuir uma opção para adoção definitiva ou temporária. | MÉDIA |
+|RF-007|O site deve ter uma página para Apoiadores, onde o Usuário poderá realizar doações para ONGs ou para o site. | MÉDIA |
+|RF-008|O site deve ter uma página para Usuários ou ONGs consultarem seu perfil. | BAIXA |
+|RF-009|O site deve ter uma página para contato de Usuários ou ONGs, com a equipe do site. | BAIXA |
+|RF-0010|Deve ter uma página com a história do site. | BAIXA |
 
 
 ### Requisitos não Funcionais
