@@ -17,3 +17,11 @@ Comente sobre as ferramentas de testes utilizadas.
 > - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 > - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+
+
+##Os requisitos para realização dos testes de software são:
+•	Site publicado na internet;
+•	Navegador da internet – Chrome, Firefox ou Edge;
+•	Conectividade de internet para acesso de plataformas (APIS).
+
+Os testes funcionais a serem realizados no site são descritos a seguir:
