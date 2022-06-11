@@ -6,9 +6,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>PatinhasFelizes</title>
     <link rel="shortcut icon" href="imag/favicon.png" type="image/x-icon" />
-    <link rel="stylesheet" href="./../style.css" />
+    <link rel="stylesheet" href="style.css" />
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
   </head>
+    
+    <body>
+      <header>
+        <nav class="nav-tudo">
+         <div class="nav-logo">
+        <a href="index.html"><img src="patinhasfelizes.png" alt="logo"></a>
+        </div>
+            <div class="nav-list">
+            <ul>
+                <li class="nav-item"><a href="./../pages/index.html">Início</a></li>
+                <li class="nav-item"><a href="./../pages/adote.html">Adote</a></li>
+                <li class="nav-item"><a href="#">Sobre</a></li>
+                <li class="nav-item"><a href="#">Ajude</a></li>
+                <li class="nav-item"><a href="#">Cadastro</a></li>
+                <li class="nav-item"><a href="#">Contato</a></li>
+            </ul>
+            </div>
+            <div class="login-button">
+                <button><a href="login.html">Entrar</a></button>
+            </div>
+        </nav>
+    </div>
+    </header>
+    </body>
 
 <body id="fundotela"> 
     <div id="header"></div>
@@ -24,24 +48,24 @@
     <br>
     <br>
     <nav id="formulario">
-    Nome da Ong <input type="text" name="ong" required><br>
-    Seu nome <input type="text" name="nome" required><br>
-    CNPJ <input type="number" name="cnpj" required><br>
-    Telefone <input type="number" name="telefone" required><br>
-    Email <input type="email" name="email" required><br>
-    Estado <input type="text" name="estado" required><br>
-    Cidade <input type="text" name="cidade" required><br>
-    Endereço <input type="text" name="endereço" required><br>
-    Chave Pix <input type="text" name="pix" required><br>
+    <input type="text" name="ong" placeholder="Nome da Ong"><br>
+    <input type="text" name="nome" placeholder="Seu nome"><br>
+    <input type="text" name="cnpj" placeholder="CNPJ"><br>
+    <input type="tel" name="telefone" placeholder="Telefone"><br>
+    <input type="text" name="email" placeholder="Email"><br>
+    <input type="text" name="estado" placeholder="Estado"><br>
+    <input type="text" name="cidade" placeholder="Cidade "><br>
+    <input type="text" name="endereço" placeholder="Endereço "><br>
+    <input type="text" name="pix" placeholder="Chave Pix"><br>
     <input type="radio" name="account" value="cheking account">Conta Corrente 
     <input type="radio" name="account" value="savings account">Conta Poupança</br>
-    Banco <input type="text" name="banco" required><br>
-    Agencia <input type="number" name="agencia" required><br>
-    Conta <input type="number" name="conta" required><br>
+    <input type="text" name="banco" placeholder="Banco"><br>
+    <input type="number" name="agencia" placeholder="Agencia"><br>
+    <input type="number" name="conta" placeholder="Conta "><br>
     <br>
     <input type="radio" name="age" value="of age">Sou maior de 18 anos</br>
     <br>
-    <button class="entrar-button">Cadastre-se</button>
+    <button class="entrar-button"><a href="ong.html">Cadastre-se</a></button>
     
     </nav>
 </form>
@@ -51,7 +75,28 @@
 
 </div>
 <div id="footer"></div>
+<body>
+    <footer>
+      <div class="container-footer">
+        <div class="footer-content">
+          <a href="#">SOBRE NÓS</a>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
+            sint ex. Quidem voluptas id dicta provident, quod quam earum! Deleniti
+            nam consectetur suscipit cumque natus officia doloremque, iusto ex
+            alias.
+          </p>
+          <div class="container-icones">
+            <img src="facebook.png" class="footer-icons" alt="" />
+            <img src="instagram.png" class="footer-icons" alt="" />
+            <img src="wpp.png" class="footer-icons" alt="" />
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
 
-    <script src="./../components/render.js"></script>
-</body>
+    <script src="render.js"></script>
+  </body>
+
 </html>
