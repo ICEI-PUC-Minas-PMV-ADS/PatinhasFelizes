@@ -346,5 +346,46 @@ input {
   margin-left: 13mm;
   margin-right: 20mm;
   margin-block-end: 10mm;
+  text-decoration: none;
+
+}
+#botaoListarCadastroAdotante {
+
+  border-radius: 5px; 
+  margin-block-start: 10mm;
+  color: white;
+  background-color: #7092bF;
+  width: 22mm;
+  height: 13mm;
+  margin-left: 13mm;
+  margin-right: 20mm;
+  margin-block-end: 10mm;
+  text-decoration: none;
+
+
+}
+
+/*css Cadastro Adotante listagem*/
+
+#tituloListagem{
+
+  color: #7092bF;
+  text-align: center;
+  padding: 10mm;
+
+}
+
+#botaoVoltarCadastroAdotante{
+
+  border-radius: 5px; 
+  margin-block-start: 10mm;
+  color: white;
+  background-color: #7092bF;
+  width: 22mm;
+  height: 13mm;
+  margin-left: 90mm;
+  margin-right: 20mm;
+  margin-block-end: 10mm;
+  text-decoration: none;
 
 }
