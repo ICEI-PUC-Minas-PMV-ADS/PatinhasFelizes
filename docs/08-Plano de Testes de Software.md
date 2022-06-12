@@ -109,3 +109,28 @@ Passos -
 Critérios de Êxito -
 Após o procedimento ser realizado, a tela deverá ser alterada, apresentando uma tela com todos os dados preenchidos pelo usuário, sendo possível fazer alterações nos dados cadastrados.
 
+
+Caso de teste 5 – Visualizar a página de Cadastro de Adotante.
+Requisitos associados - RNF-01 O Projeto deve estar disponível em um ambiente acessível publicamente na Internet (Github). RNF-03 O site deve ser desenvolvido com as tecnologias HTML, CSS e Javascript. RNF-04 O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) RF-005 O site deve possuir uma página com e cadastro de Adotante, na qual o usuário possa inserir seus dados para cadastrar.
+Objetivo do teste - Verificar se é possível visualizar  e inserir os dados no formulario.
+
+Passos –
+1.	Acessar o navegador;
+2.	Informar o endereço do Site
+3.	Visualizar a tela de cadastro de Adotante
+4.	Preencher todos os campos
+5.	Clicar no botão Cadastre-se
+Critérios de Êxito - Após o procedimento ser realizado o formulario preenchido será apagado demonstrando que foi cadastrando o Adotante.
+
+Caso de teste 6 – Visualizar Cadastros realizados de Adotante.
+Requisitos associados - RNF-01 O Projeto deve estar disponível em um ambiente acessível publicamente na Internet (Github). RNF-03 O site deve ser desenvolvido com as tecnologias HTML, CSS e Javascript. RNF-04 O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) RF-005 O site deve possuir uma página com e cadastro de Adotante, na qual o usuário possa inserir seus dados para cadastrar.
+Objetivo do teste - Verificar se é possível visualizar  os cadastros realizados 
+
+Passos –
+1.	Acessar o navegador;
+2.	Informar o endereço do Site
+3.	Visualizar a tela de cadastro de Adotante
+4.	Clicar no botão Listar
+Critérios de Êxito - Após o procedimento ser realizado será apresentado todos os cadastros realizados de Adotante.
+
+
