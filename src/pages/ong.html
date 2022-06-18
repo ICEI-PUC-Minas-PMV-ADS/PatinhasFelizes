@@ -6,36 +6,85 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>PatinhasFelizes</title>
     <link rel="shortcut icon" href="imag/favicon.png" type="image/x-icon" />
-    <link rel="stylesheet" href="./../style.css" />
+    <link rel="stylesheet" href="style.css" />
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="app.js"></script>
 </head>
-<body>
-    <div id="header"></div>
-    <main>
-        <div class="container-main">
-            <div class="container-login">
-                <form>
-                    <br>
 
-                    <h2 id="titulo">Seus Dados</h2>
-
-                    <br>
-                    <br>
-                    <br>
-                    <nav id="dados">
-
-                        <div id="tela">
-
-                        </div>
-
-
-                    </nav>
-                </form>
+<body onload="ExibirCadastro()">
+    <header>
+        <nav class="nav-tudo">
+            <div class="nav-logo">
+                <a href="index.html"><img src="patinhasfelizes.png" alt="logo"></a>
             </div>
+            <div class="nav-list">
+                <ul>
+                    <li class="nav-item"><a href="./../pages/index.html">Início</a></li>
+                    <li class="nav-item"><a href="./../pages/adote.html">Adote</a></li>
+                    <li class="nav-item"><a href="#">Sobre</a></li>
+                    <li class="nav-item"><a href="#">Ajude</a></li>
+                    <li class="nav-item"><a href="#">Cadastro</a></li>
+                    <li class="nav-item"><a href="#">Contato</a></li>
+                </ul>
+            </div>
+            <div class="login-button">
+                <button><a href="login.html">Entrar</a></button>
+            </div>
+        </nav>
         </div>
-    </main>
-    <div id="footer"></div>
-    <script src="./../components/render.js"></script>
-    <script src="./../js/login.js"></script>
+    </header>
 </body>
+
+<body id="fundotela">
+    <div id="header"></div>
+    <div class="container-main">
+
+        <div class="container-login">
+            <form>
+                <br>
+
+                <h2 id="titulo">Seus Dados</h2>
+
+                <br>
+                <br>
+                <br>
+                <nav id="dados">
+
+                    <div id="tela">
+
+                    </div>
+
+
+                </nav>
+            </form>
+        </div>
+        <br>
+
+
+    </div>
+    <div id="footer"></div>
+    <body>
+        <footer>
+            <div class="container-footer">
+                <div class="footer-content">
+                    <a href="#">SOBRE NÓS</a>
+                    <p>
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
+                        sint ex. Quidem voluptas id dicta provident, quod quam earum! Deleniti
+                        nam consectetur suscipit cumque natus officia doloremque, iusto ex
+                        alias.
+                    </p>
+                    <div class="container-icones">
+                        <img src="facebook.png" class="footer-icons" alt="" />
+                        <img src="instagram.png" class="footer-icons" alt="" />
+                        <img src="wpp.png" class="footer-icons" alt="" />
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </body>
+
+    <script src="render.js"></script>
+</body>
+
 </html>
