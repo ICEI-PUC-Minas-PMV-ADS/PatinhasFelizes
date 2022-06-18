@@ -6,89 +6,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>PatinhasFelizes</title>
     <link rel="shortcut icon" href="imag/favicon.png" type="image/x-icon" />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="./../style.css" />
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <script src="app.js"></script>
 </head>
-
 <body>
-    <header>
-        <nav class="nav-tudo">
-            <div class="nav-logo">
-                <a href="index.html"><img src="patinhasfelizes.png" alt="logo"></a>
-            </div>
-            <div class="nav-list">
-                <ul>
-                    <li class="nav-item"><a href="./../pages/index.html">Início</a></li>
-                    <li class="nav-item"><a href="./../pages/adote.html">Adote</a></li>
-                    <li class="nav-item"><a href="#">Sobre</a></li>
-                    <li class="nav-item"><a href="#">Ajude</a></li>
-                    <li class="nav-item"><a href="./../pages/cadastrese.html">Cadastro</a></li>
-                    <li class="nav-item"><a href="#">Contato</a></li>
-                </ul>
-            </div>
-            <div class="login-button">
-                <button><a href="login.html">Entrar</a></button>
-            </div>
-        </nav>
-        </div>
-    </header>
-</body>
-
-<body id="fundotela">
     <div id="header"></div>
-    <div class="container-main">
+    <main>
+        <div class="container-main">
+            <div class="container-login">
+                <form>
+                    <br>
 
-        <div class="container-login">
-            <form>
-                <br>
+                    <h2 id="titulo">Cadastre-se</h2>
 
-                <h2 id="titulo">Cadastre-se</h2>
-
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <nav id="formulario">
-
-                    <input type="radio" name="account" value="cheking account"><a href="ong.html"></a>Sou ONG</br>
-                    <input type="radio" name="account" value="savings account"><a href="cadastroong.html"></a>Sou Adotante</br>
                     <br>
                     <br>
-                    <button class="entrar-button"><a href=""></a>Cadastre-se</a></button>
+                    <br>
+                    <br>
+                    <br>
+                    <nav id="formulario">
+
+                        <input type="radio" name="account" value="cheking account"><a href="ong.html"></a>Sou ONG</br>
+                        <input type="radio" name="account" value="savings account"><a href="cadastroong.html"></a>Sou Adotante</br>
+                        <br>
+                        <br>
+                        <button class="entrar-button"><a href=""></a>Cadastre-se</a></button>
 
 
-                </nav>
-            </form>
-        </div>
-        <br>
-
-
-    </div>
-    <div id="footer"></div>
-    <body>
-        <footer>
-            <div class="container-footer">
-                <div class="footer-content">
-                    <a href="#">SOBRE NÓS</a>
-                    <p>
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
-                        sint ex. Quidem voluptas id dicta provident, quod quam earum! Deleniti
-                        nam consectetur suscipit cumque natus officia doloremque, iusto ex
-                        alias.
-                    </p>
-                    <div class="container-icones">
-                        <img src="facebook.png" class="footer-icons" alt="" />
-                        <img src="instagram.png" class="footer-icons" alt="" />
-                        <img src="wpp.png" class="footer-icons" alt="" />
-                    </div>
-                </div>
+                    </nav>
+                </form>
             </div>
-        </footer>
-    </body>
-
-    <script src="render.js"></script>
+        </div>
+    </main>
+    <div id="footer"></div>
+    <script src="./../components/render.js"></script>
+    <script src="./../js/login.js"></script>
 </body>
-
 </html>

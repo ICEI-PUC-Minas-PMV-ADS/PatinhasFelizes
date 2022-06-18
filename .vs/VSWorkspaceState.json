@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\pages"
   ],
-  "SelectedNode": "\\C:\\Users\\Leo\\Source\\Repos\\PatinhasFelizes",
+  "SelectedNode": "\\src\\components\\header.html",
   "PreviewInSolutionExplorer": false
 }
