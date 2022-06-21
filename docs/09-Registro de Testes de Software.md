@@ -10,3 +10,16 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+
+##Registro de teste 
+
+#Caso de teste 1 - Visualizar tela de login
+
+![teste 1](https://user-images.githubusercontent.com/95424711/174692200-0fe9e5b6-24c7-4e86-95aa-40d3e4189c1e.png)
+
+#Caso de teste 2: Acessar site com e-mail e senha válidos.
+
+![teste 2](https://user-images.githubusercontent.com/95424711/174692266-b0b36110-5d9b-4045-9116-fbb6c9490294.png)
+
+![teste 3](https://user-images.githubusercontent.com/95424711/174692284-0b96d3b1-6e12-4b89-b2c6-cdffbc839590.png)
+
