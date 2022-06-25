@@ -107,7 +107,7 @@ Passos -
 7) Clicar no botão Cadastre-se
 
 Critérios de Êxito -
-Após o procedimento ser realizado, a tela deverá ser alterada, apresentando uma tela com todos os dados preenchidos pelo usuário, sendo possível fazer alterações nos dados cadastrados.
+Após o procedimento ser realizado, a tela deverá ser alterada, apresentando uma tela com todos os dados preenchidos pelo usuário.
 
 
 Caso de teste 5 – Visualizar a página de Cadastro de Adotante.
