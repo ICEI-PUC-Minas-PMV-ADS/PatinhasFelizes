@@ -23,3 +23,8 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 
 ![teste 3](https://user-images.githubusercontent.com/95424711/174692284-0b96d3b1-6e12-4b89-b2c6-cdffbc839590.png)
 
+#Caso de teste 3: 
+
+
+![cadastroong](https://user-images.githubusercontent.com/80654018/175792119-a0043dc3-ba07-408f-b8f3-1724a111b157.png)
+
