@@ -8,7 +8,7 @@ function logartest () {
         if (login == usuarios[i].email && senha == usuarios[i].senha){
             validar = 1
             alert("Login efetuado com sucesso!");
-            location.href = ""
+            location.href = "adote.html"
             break
         }
 
