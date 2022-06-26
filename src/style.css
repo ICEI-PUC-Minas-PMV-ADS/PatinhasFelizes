@@ -234,7 +234,7 @@ footer {
 .login-link {
   text-decoration: none;
   color: #ffffff;
-  transition: 0.8s;
+  transition: 0.5s;
 }
 
 .login-link:hover {
@@ -255,10 +255,10 @@ input {
   border-radius: 5px;
   margin: 20px;
   color: #ffffff;
-  width: 46%;
+  width: 80%;
   font-weight: 500;
   border: none;
-  transition: 0.8s;
+  transition: 0.5s;
 }
 
 .entrar-button:hover {
