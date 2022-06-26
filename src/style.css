@@ -55,6 +55,12 @@ header {
   margin: 10px;
 }
 
+.login-button button a:hover {
+  color: #000;
+  transition: 0.3s;
+}
+
+
 .login-button button a {
   text-decoration: none;
   color: #ffffff;
